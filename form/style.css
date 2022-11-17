@@ -1,0 +1,46 @@
+#avertnojs {
+    font-size:1.2em;
+    color:hsl(0,100%,47%);
+    text-align:center;
+}
+body {
+    position:relative;
+    right:0;
+    width: 700px; /* Largeur de la page hors marges et bordures */
+    margin:0 auto;
+    padding: 0 20px; /* Marges intérieures latérales */
+    border-left: 8px solid #AAA;
+    border-right: 8px solid #AAA;
+    background-color: #FFF; /* COULEUR DE FOND DE LA PAGE */
+    font-size: 0.85em;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+h1 {
+    font-family: Arial, Verdana, Geneva, sans-serif;
+    color: #444;
+    text-align: center;
+}
+h2,h3,h4,h5,h6 {
+    font-family: Arial, Verdana, Geneva, sans-serif;
+    color: #444;
+    text-align: left;
+}
+html {
+    font-size: 100%;
+}
+p {
+    text-align:justify;
+    font-size:1.2em;
+}
+hr {
+    height:2px;
+    background-color:gray;    
+}
+#copyright {
+    font-size:0.8em;
+    text-align:right;
+}
+#avertissement {
+    font-size: 1em;
+}
